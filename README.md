@@ -2,10 +2,8 @@
 
 # Github Link
 
-[GITHUB_LINK](https://github.com/rupali-12/EX_29_RAG_PDF_chatBot)
+[GITHUB_LINK](https://github.com/rupali-12/Ex_31_Chat_with_SQL)
 
 # Deployed Link
 
-[DEPLOYED_LINK](https://ex29ragpdfchatbot-9wyrsmlhdxuwujnwaqguvf.streamlit.app/)
-
-
+[DEPLOYED_LINK]()
